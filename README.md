@@ -13,6 +13,7 @@ CREATE TABLE `emp` (
 ) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8mb3
 ```
 本地启动项目步骤
+0.拉代码 分支-master
 1.创建mysql数据库
 2.本地idea 添加tomcat 
 ![image](https://user-images.githubusercontent.com/23187572/206900229-c5fdea0c-5063-4634-bd6e-936d42d791ea.png)
